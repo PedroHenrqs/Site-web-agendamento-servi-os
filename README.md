@@ -156,8 +156,7 @@ Acesse: http://127.0.0.1:8000
 ## 6. Credenciais de administrador de teste
 
 ```
-E-mail: admin@example.com
-Senha:  admin123
+
 ```
 
 **Atenção:** essas são credenciais apenas para desenvolvimento/teste local.
